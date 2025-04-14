@@ -71,7 +71,7 @@ background-color:#C9D0D8;
 float:right;
 width:260px;
 height:135px;
-background-image:url(../img/lay/kompass.jpg);
+background-image:url(../img/lay/kompass.html);
 background-repeat:no-repeat;
 margin:0;
 }
@@ -84,7 +84,7 @@ zindex:99px;
 background-color:#C9D0D8;
 width:260px;
 height:135px;
-background-image:url(../img/lay/kompass.jpg);
+background-image:url(../img/lay/kompass.html);
 background-repeat:no-repeat;
 margin:0;
 }
@@ -134,18 +134,18 @@ padding:12px 12px 0;
 }
 
 #fTop {
-background-image:url(../img/lay/bg_fTop.gif);
+background-image:url(../img/lay/bg_fTop.html);
 background-repeat:repeat-x;
 }
 
 #fTop1 {
-background-image:url(../img/lay/img_fTop1.gif);
+background-image:url(../img/lay/img_fTop1.html);
 background-repeat: no-repeat;
 height:27px;
 }
 
 #fTop2 {
-background-image:url(../img/lay/img_fTop2.jpg);
+background-image:url(../img/lay/img_fTop2.html);
 background-repeat: no-repeat;
 height:21px;
 }
